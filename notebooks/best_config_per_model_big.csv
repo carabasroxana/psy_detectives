@@ -1,0 +1,3 @@
+model_alias,model_name,eval_f1,trial_number,max_length,max_steps,learning_rate,weight_decay,warmup_ratio,per_device_batch,grad_accum,epochs,gradient_checkpointing
+roberta_large,roberta-large,0.7640300875594993,0.0,192.0,400.0,1e-05,0.01,0.06,2.0,16.0,1.0,True
+deberta_large,microsoft/deberta-v3-large,0.8338797687593408,0.0,192.0,400.0,1e-05,0.01,0.06,2.0,16.0,1.0,True
